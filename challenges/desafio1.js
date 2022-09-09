@@ -1,1 +1,1 @@
-db.produtos.find().Count({});
+db.produtos.find().count({});
